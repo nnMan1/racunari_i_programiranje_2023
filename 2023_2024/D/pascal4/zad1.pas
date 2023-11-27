@@ -1,5 +1,5 @@
 {
-    Fat je cio broj k(1 <=k <= 180), i niz cifara
+    Dat je cio broj k(1 <=k <= 180), i niz cifara
     10111213...99
     Koji se dobija kada se svi dvocifreni brojevi 
     redom zapisu jedan iza drugog.
